@@ -1,0 +1,6 @@
+ Cada archivo BD?_train.txt contiene 5000 muestras
+ Cada archivo BD?_test.txt contiene 500 muestras
+
+ Cada imagen de los digitos contiene 14x14 píxeles con valor 0(negro) o 1(blanco).
+ 
+ En los archivos de la BD cada renglón representa una imagen, del píxel 1 hasta el 196

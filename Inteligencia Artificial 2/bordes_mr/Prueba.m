@@ -1,0 +1,1 @@
+Img = imread('zprueba.bmp');
